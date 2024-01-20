@@ -1,0 +1,19 @@
+20
+379.35 requests/s
+99.82 % uptime
+
+10
+360.29 requests/s
+99.75 % uptime
+
+5
+311.72 requests/s
+99.01 % uptime
+
+2
+245.88 requests/s
+78.02 % uptime
+
+1
+216.54 requests/s
+59.03 % uptime
